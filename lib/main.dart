@@ -16,8 +16,9 @@ class MyApp extends StatelessWidget {
             'Qlan',
             style: TextStyle(
               fontFamily: 'Montserrat',
-              fontSize: 25,
+              fontSize: 30,
               fontWeight: FontWeight.bold,
+
             ),
           )),
           backgroundColorStart: const Color.fromRGBO(52, 232, 104, 100),
