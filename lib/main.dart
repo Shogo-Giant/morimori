@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
             'Qlan',
             style: TextStyle(
               fontFamily: 'Montserrat',
-              fontSize: 30,
+              fontSize: 45,
               fontWeight: FontWeight.bold,
 
             ),
